@@ -15,3 +15,6 @@ A: They show the parents of the commits.
 
 Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A: Now we have a commit with changes from both branches. A commit with two parents.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: Git's automatic merge is faster, although when doing it manually you have more control about what is being merged.
