@@ -1,14 +1,15 @@
 Q: How did viewing a diff between two versions of a file help you see the bug that was introduced?
-A: Using a version control system can help to figure out where bugs area by providing me a tool to compare my source files.
+A: Using a version control system can help me to figure out where bugs are by providing me a tool to compare my source files.
 
 Q: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
-A: One can find a compare different implementations and approachs to a solution.
+A: A programmer can find and compare different implementations and approachs to a solution.
 
 Q: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
-A: The pros are control of what is being commited, so you can commit everytime you judge the change has the right size. The cons is that a bad behaviored programmer could delay his commmits.
+A: One advantage is that you have control of what is being commited, so you can commit everytime you judge the change has the right size. 
+   A side effect is that a bad behaviored programmer could delay his commmits.
 
 Q: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
-A: Because for certain jobs, like programming, is better keep track of changes in files together, while in other activities there is no relation between the files that are being commited.
+A: Because for certain jobs, like programming, is better keep track of changes in files together, while in other activities there is no relation between the files that are being committed.
 
 Q: How can you use the commands git log and git diff to view the history of files?
 A: Selecting two versions to compare.
@@ -17,4 +18,4 @@ Q: How might using version control make you more confident to make changes that 
 A: Because you can also check the differences between two versions to discover what happened.
 
 Q: Now that you have your workspace set up, what do you want to try using Git for?
-A: To develop all my projects.
+A: I would like to use it in all my projects.
