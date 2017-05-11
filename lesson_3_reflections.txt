@@ -17,3 +17,7 @@ Q: How would you collaborate without using Git or GitHub? What would be easier, 
 A: The learning curve is the only reason that would justify not to use Git and Github. If you and people you're 
    collaborating with are working in a simple project and don't know Git and Github it could be a choice not to
    use them. In all other scenarios using Git would simplify and make it easier to work with the team.
+
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: Making changes in a master branch allows people to instantly (just after you commit and push) see your changes.
+   In other hand when you need to experiment or propose something it's a good idea to use branches.
