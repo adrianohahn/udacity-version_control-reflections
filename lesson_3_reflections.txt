@@ -12,3 +12,8 @@ A: Forks are clones made on Github. When you fork a repository on Github, It can
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 A: Git can check if the tip of the copy of remote repository's branch is an ancestor of the local version, 
    and if it is true, Git can do a fast-forward merge.
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: The learning curve is the only reason that would justify not to use Git and Github. If you and people you're 
+   collaborating with are working in a simple project and don't know Git and Github it could be a choice not to
+   use them. In all other scenarios using Git would simplify and make it easier to work with the team.
